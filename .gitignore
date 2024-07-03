@@ -162,3 +162,14 @@ cython_debug/
 .idea/
 /02-experiment-tracking/models/
 /02-experiment-tracking/mlruns/
+
+**/artifacts/
+**/models/
+
+data/
+.bin
+*.db
+
+*.parquet
+*.html
+*.csv
