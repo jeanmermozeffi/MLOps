@@ -175,4 +175,4 @@ data/
 
 .DS_Store
 
-/02-experiment-tracking/config.py
+/config.py
